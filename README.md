@@ -15,9 +15,3 @@ This project is designed to demonstrate the use of Node.js for building scalable
 - [dotenv] – Environment variable management
 - [nodemon] – Dev server reloader
 
-## 📁 Project Structure
-
-<<<<<<< HEAD
-i
-=======
->>>>>>> fef5a08118917dbb37a43d905b61b1705c9467e6
